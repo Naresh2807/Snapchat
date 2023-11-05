@@ -10,3 +10,5 @@ Check the python version and install the package
 
 'pip install time'
 `pip install cvzone`
+#run
+'python main.py'
